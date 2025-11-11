@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: 'some insane and awful named doc'
+  name: some-insane-and-awful-named-doc
   links:
     - title: Website
       url: http://backstage.io
