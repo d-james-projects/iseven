@@ -1,0 +1,7 @@
+site_name: 'my rocking docs site name'
+site_description: An informative description
+plugins:
+  - techdocs-core
+nav:
+  - Getting Started: index.md
+
